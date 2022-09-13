@@ -1,2 +1,2 @@
-# abhishek-das-ind.github.io
+# abhishek-jena.github.io
 AI partner
